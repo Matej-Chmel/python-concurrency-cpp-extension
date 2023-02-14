@@ -1,0 +1,2 @@
+# Python concurrency with C++ extension
+This repository compares the examples included in the book Mastering Concurrency in Python by Quan Nguyen with the functions implemented in C++ using the pybind11 library.
